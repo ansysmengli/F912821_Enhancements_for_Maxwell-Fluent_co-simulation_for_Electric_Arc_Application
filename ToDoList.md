@@ -4,17 +4,21 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 # Task status table
 | Task   |   UI Code Changes status |  UI test status |  Solver test status |  QA test status |    
 |----------------|---------|---------|---------|---------|
-| Dialog | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
-| Property windows | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
-| Solution management | :heavy_check_mark:  | :heavy_check_mark:  | ❌ | ❌
-| Postprocessing | :heavy_check_mark:   | :heavy_check_mark:  | ❌ | ❌
-| I/O | N/A  | :heavy_check_mark: | N/A | ❌
-| undo/redo | N/A  | :heavy_check_mark: | N/A | ❌
-| scripting | N/A  | :heavy_check_mark: | N/A | ❌
-| Solution invalidation | N/A  |  :heavy_check_mark:  | N/A | ❌
-| Optimetrics (parametric sweep)  | N/A  | :heavy_check_mark: | N/A | ❌
-| 3D component | N/A  | :heavy_check_mark: | N/A | ❌
-| Feature flag protection  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| Core Dialog | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| SCP file (new qunatities and restart)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| Workflow (with Motion)  | 🕛  | 🕛 | N/A | ❌
+| Validation (dialog and comengine)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| Validation (dialog and comengine)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| Property windows | N/A  | N/A | N/A | N/A
+| Solution management | N/A  | N/A  | N/A | N/A
+| Postprocessing | N/A   | N/A  | N/A | N/A
+| I/O | N/A  | N/A | N/A | N/A
+| undo/redo | N/A  | N/A | N/A | N/A
+| scripting | N/A  | N/A | N/A | N/A
+| Solution invalidation | N/A  |  N/A  | N/A | N/A
+| Optimetrics (parametric sweep)  | N/A  | N/A | N/A | N/A
+| 3D component | N/A  | N/A | N/A | N/A
+| Feature flag protection  | ❌  | ❌ | N/A | ❌
 
 :heavy_check_mark:: completed
 
