@@ -17,7 +17,7 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 | Solution invalidation | N/A  |  N/A  | N/A | N/A
 | Optimetrics (parametric sweep)  | N/A  | N/A | N/A | N/A
 | 3D component | N/A  | N/A | N/A | N/A
-| Feature flag protection  | ❌  | ❌ | N/A | ❌
+| Feature flag protection (add for motion and completed for surface loss)  | ❌  | ❌ | N/A | ❌
 
 :heavy_check_mark:: completed
 
