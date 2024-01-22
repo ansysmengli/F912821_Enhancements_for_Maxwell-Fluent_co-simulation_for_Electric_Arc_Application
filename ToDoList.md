@@ -7,7 +7,7 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 | Core Dialog | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
 | SCP file (new qunatities and restart)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
 | Workflow (with Motion)  | 🕛  | 🕛 | N/A | ❌
-| Validation (dialog and comengine)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
+| Validation (dialog user input)  | :heavy_check_mark:  | :heavy_check_mark: | N/A | ❌
 | Property windows | N/A  | N/A | N/A | N/A
 | Solution management | N/A  | N/A  | N/A | N/A
 | Postprocessing | N/A   | N/A  | N/A | N/A
