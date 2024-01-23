@@ -1,5 +1,10 @@
 # F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application
-This feature is the enhancement for electrical arc modeling simulation. The co-simulation happens among AEDT, Fluent, Twin Builder, and Motion using System Coupling.  
+This feature is the enhancement for electrical arc modeling simulation. The co-simulation happens among AEDT, Fluent, Twin Builder, and Motion using System Coupling. 
+
+# SYC time sequences
+[SC Sequence diagram.pdf](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/files/14027905/SC.Sequence.diagram.pdf)
+
+
 
 # Task status table
 | Task   |   UI Code Changes status |  UI test status |  Solver test status |  QA test status |    
