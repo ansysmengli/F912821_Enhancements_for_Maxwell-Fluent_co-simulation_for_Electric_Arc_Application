@@ -24,3 +24,9 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 ❌: not completed
 
 🕛: in progress
+
+
+# To Do List and issues for futher
+- If we do not have geometry change, then we do not need to have re-mesh in Maxwell
+
+
