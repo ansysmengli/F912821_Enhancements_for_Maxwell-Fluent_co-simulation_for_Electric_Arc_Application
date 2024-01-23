@@ -37,7 +37,7 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 - For initial steps if we can get initial mesh with default conductivity then we do not need to simulate and make adaptive simulation with default conductivity, this may save also some time.
 - After the mapping from Fluent then we need to make adaptive simulation, we can map the Fluent results to each adaptive mesh of Maxwell
 ## Linux releated
-- Maxwell can not be connected in Linux using batch script
+- For parallel computing, Maxwell can not be connected in Linux using batch script
 ## Surface Loss UI
 - Simulate the loss with the following formular:
 Cathode: Q̇ c=Ji(Vc+Vi−Φc)= Ki* Resistive Sheet/Thin Layer bc loss (nonlinear) + ki*J*(15.58V-4.65), Anode: Q̇ a=Je(Va+Φa)=ke* Resistive Sheet/Thin Layer bc loss (nonlinear)  + ke*J*4.65
