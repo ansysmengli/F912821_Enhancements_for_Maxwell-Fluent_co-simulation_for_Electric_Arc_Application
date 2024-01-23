@@ -35,8 +35,9 @@ This feature is the enhancement for electrical arc modeling simulation. The co-s
 - Maxwell can not be connected in Linux using batch script
 ## Surface Loss UI
 - Simulate the loss with the following formular:
-Cathode: Q̇ c=Ji(Vc+Vi−Φc)= Ki* Resistive Sheet/Thin Layer bc loss (nonlinear) + ki*J*(15.58V-4.65),   
-Anode: Q̇ a=Je(Va+Φa)=ke* Resistive Sheet/Thin Layer bc loss (nonlinear)  + ke*J*4.65 
+Cathode: Q̇ c=Ji(Vc+Vi−Φc)= Ki* Resistive Sheet/Thin Layer bc loss (nonlinear) + ki*J*(15.58V-4.65), Anode: Q̇ a=Je(Va+Φa)=ke* Resistive Sheet/Thin Layer bc loss (nonlinear)  + ke*J*4.65
+![image](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/assets/110839247/eb653e63-a24d-4f19-afb8-0fac1bf8b8ce)
+
 
 
 
