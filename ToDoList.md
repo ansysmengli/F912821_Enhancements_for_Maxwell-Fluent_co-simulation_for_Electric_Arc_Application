@@ -44,5 +44,9 @@ Cathode: Q̇ c=Ji(Vc+Vi−Φc)= Ki* Resistive Sheet/Thin Layer bc loss (nonlinea
 ![image](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/assets/110839247/eb653e63-a24d-4f19-afb8-0fac1bf8b8ce)
 
 
-
+# Test Issue
+|    |   With Code Change |  Without Code Change |    
+|----------------|---------|---------|
+| Motion quantities checked | ❌ | N/A |
+| Motion quantities notchecked | ❌ |  :heavy_check_mark:  |
 
