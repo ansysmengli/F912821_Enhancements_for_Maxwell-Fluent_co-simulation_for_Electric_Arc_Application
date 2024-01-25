@@ -45,6 +45,16 @@ Cathode: Q̇ c=Ji(Vc+Vi−Φc)= Ki* Resistive Sheet/Thin Layer bc loss (nonlinea
 
 
 # Test Issue
+
+Syc return an Maxwell error
+![image](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/assets/110839247/29bfd8bf-dab6-4902-9ab6-05b5885778c1)
+No error is found in Maxwell batch log
+![image](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/assets/110839247/c1282928-8602-4852-9ada-c798e1c29b55)
+When debuging, it doesn't jump into time loop, and shutdown immediately
+![image](https://github.com/ansysmengli/F912821_Enhancements_for_Maxwell-Fluent_co-simulation_for_Electric_Arc_Application/assets/110839247/b855dbe9-8449-42b7-b9fc-aa1ed0632af2)
+
+
+
 |    |   With Code Change |  Without Code Change |    
 |----------------|---------|---------|
 | Motion quantities checked | ❌ | N/A |
